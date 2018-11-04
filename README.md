@@ -1,4 +1,5 @@
-# Judging a Book by Its Cover
+# Title
+Judging a book by its cover
 
 # Abstract
 In many situations, people will choose products based on first hand impressions or personal rule of thumbs. As an example, studies show that people choose wine based on the etiquette. Originally, this problem was posed as whether the reviews would be affected by the book covers, but we thought it was unrealistic that any correlation from this question could be due to an actual causation, since a review require you to actually read the book, whereas it only takes one click to buy. 
@@ -25,5 +26,5 @@ The dataset is 20GB and available on the EPFL cluster. The dataset includes info
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
 
-# Questions for TAa
+# Questions for TAs
 Add here some questions you have for us, in general or project-specific.
