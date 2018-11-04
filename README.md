@@ -23,17 +23,17 @@ The dataset is 20GB and available on the EPFL cluster. The dataset includes info
 
 
 # A list of internal milestones up until project milestone 2
-Week 1 (11 Nov): 
+Week 1 (Nov 11): 
 - Check that the relevant data and visual features are available in the cluster, take steps to make it available if necessary.
 - Start exploring the data using descriptive statistics and plots.
 - Start cleaning the data if necessary.
 
-Week 2 (18 Nov): 
+Week 2 (Nov 18): 
 - Determine visualization format.
 - Create semantically meaningful features.
 - If needed, update the plan in a reasonable way depending on the findings from the 
 
-Week 3 (25 Nov): 
+Week 3 (Nov 25): 
 - Comment and debug our code.
 - Firmly establish new goals before next milestone. 
 
