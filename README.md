@@ -7,8 +7,7 @@ A 150 word description of the project idea, goals, dataset used. What story you 
 Do visual features of book covers affect book sales?
 	- Is it possible to find semantically meaningful features of book covers that affect sales? 
 	- Do book covers affect the ratings?
-	- Does author/publisher have a stronger correlation with sales compared to book cover design?    			
-	- Does the importance of a book cover design follow a seasonal pattern? (e.g. more important around Christmas)
+	- Does author/publisher have a stronger correlation with sales compared to book cover design?	
 	- Does the importance of a book cover design depend on the genre?
 	- Are there “good cover pratices” and “bad cover pratices” we can find? 
 
