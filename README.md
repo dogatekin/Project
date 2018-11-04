@@ -10,15 +10,11 @@ Ultimately, we would like to answer the overall question of whether people are i
 # Research questions
 Do visual features of book covers affect book sales?
 
-	- Is it possible to find semantically meaningful features of book covers that affect sales? 
-
-	- Do book covers affect the ratings?
-
-	- Does author/publisher have a stronger correlation with sales compared to book cover design?	
-
-	- Does the importance of a book cover design depend on the genre?
-
-	- Are there “good cover pratices” and “bad cover pratices” we can find? 
+- Is it possible to find semantically meaningful features of book covers that affect sales? 
+- Do book covers affect the ratings?
+- Does author/publisher have a stronger correlation with sales compared to book cover design?	
+- Does the importance of a book cover design depend on the genre?
+- Are there “good cover pratices” and “bad cover pratices” we can find? 
 
 # Dataset
 The dataset we have chosen to work with is the amazon dataset (http://jmcauley.ucsd.edu/data/amazon/). Originally, this dataset is focused on reviews of the items, whereas we have chosen to focus mainly on the meta-data explaining the different products. 
