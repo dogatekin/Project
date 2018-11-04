@@ -27,10 +27,12 @@ Week 1 (11 Nov):
 - Check that the relevant data and visual features are available in the cluster, take steps to make it available if necessary.
 - Start exploring the data using descriptive statistics and plots.
 - Start cleaning the data if necessary.
+
 Week 2 (18 Nov): 
 - Determine visualization format.
 - Create semantically meaningful features.
 - If needed, update the plan in a reasonable way depending on the findings
+
 Week 3 (25 Nov): 
 - Comment and debug our code.
 - Firmly establish new goals before next milestone. 
