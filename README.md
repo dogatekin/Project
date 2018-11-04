@@ -1,11 +1,9 @@
-# Judging a book by its cover
+# Judging a Book by Its Cover
 
 # Abstract
-In many situations, people will choose products based on first hand impressions or personal rule of thumbs. As an example, studies show that people choose wine based on the etiquette. Originally, this problem was posed as whether the reviews would be affected by the book covers, but we thought it was unrealistic that any correlation found from this question could be due to an actual causation, since a review require you to actually read the book, whereas it only takes one click to buy. 
-Instead, we will in this project examine whether people tend to buy books on Amazon based on the book covers, and in relation to this we will try to find specific good and bad practices of book covers. Furthermore, we will examine whether the ratings are correlated with the book covers. 
-As a comparison, we will examine the correlation between author/publicor and the sales score, and extract information about what is the most important factor for the internet buyers. 
+In many situations, people will choose products based on first hand impressions or personal rules of thumb. Originally, this problem was posed as whether the reviews would be affected by the book covers, but we thought it was unrealistic that any correlation found from this question could be due to an actual causation, since a review requires you to actually read the book, whereas it only takes one click to buy. Instead, we will in this project examine whether people tend to buy books on Amazon based on the book covers, and in relation to this we will try to find specific good and bad practices of book covers. Furthermore, we will examine whether the ratings are correlated with the book covers. As a comparison, we will examine the correlation between author/publisher and the sales score, and extract information about what is the most important factor for the internet buyers. 
 
-Ultimately, we would like to answer the overall question of whether people are impulse-buying based on visual appearance or basing their choice on content or author.
+Ultimately, we would like to investigate how the aesthetics of a book's cover can influence its reception by the general public as measured by its sales and reviews.
 
 # Research questions
 Do visual features of book covers affect book sales?
