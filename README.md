@@ -1,4 +1,5 @@
 # Title
+Judging a book by its cover
 
 # Abstract
 In many situations, people will choose products based on first hand impressions or personal rule of thumbs. As an example, studies show that people choose wine based on the etiquette. Originally, this problem was posed as whether the reviews would be affected by the book covers, but we thought it was very unrealistic that any correlation from this question could be due to an actual causation, since a review require you to actually read the book, whereas it only takes one click to buy. 
