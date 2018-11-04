@@ -29,14 +29,13 @@ Week 1 (Nov 11):
 - Start cleaning the data if necessary.
 
 Week 2 (Nov 18): 
-- Determine visualization format.
+- Finish cleaning and exploration.
 - Create semantically meaningful features.
-- If needed, update the plan in a reasonable way depending on the findings from the 
+- If needed, update the plan in a reasonable way depending on the findings from the exploration stage.
 
 Week 3 (Nov 25): 
-- Comment and debug our code.
+- Comment and debug the code.
 - Firmly establish new goals before next milestone. 
 
-
-# Questions for TAa
-Add here some questions you have for us, in general or project-specific.
+# Questions for TAs
+- Is it too big of a task to extract interpretable visual features (color, luminance, etc.) from the images ourselves?
