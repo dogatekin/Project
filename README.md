@@ -71,8 +71,10 @@ Until the presentation:
 - Prepare the project poster
 - Prepare for the presentation
 
-**Presentation Deadline:** Around Jan 21-23
+**Presentation Deadline:** Jan 21
 
 ## The Repository
 1. `Data Collection.ipynb` starts from the original dataset and creates `scraped.csv` which holds the scraped features. It also downloads all the cover images to a folder. Finally, it gives an initial exploration of the newly scraped data.
 2. `Exploratory Analysis.ipynb` uses the outputs of the last step to complete the dataset. It extracts the visual features of each image by using the methods in `feature_extraction.py`. As its name suggests, this notebook continues to do the exploratory analysis on the whole dataset, doing the descriptive statistics tasks, investigating distributions, etc. It ends with a plan for the upcoming steps of the project.
+
+## Contributions of Group Members
