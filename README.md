@@ -83,7 +83,7 @@ Until the presentation:
 
 ## Contributions of Group Members
 The contributions of each group member are as follows:
-- Doga Tech.In:       (Illegal)-Scraping from Amazon, modelling and SHAP feautures, data story and visuals
+- Doga Tekin:         Scraping from Amazon, modelling and SHAP feautures, data story and visuals
 - Pernille Samsøe:    Visual features, modelling (Random Forest), running tests, data story and visuals
 - Emilie McFall:      Visual features, prelimenary data analysis, modelling (Random Forest), data story and visuals
 
