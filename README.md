@@ -1,5 +1,7 @@
 Link for data story: https://data-wizards.github.io/
 
+*Please note: The notebook is 20MB and cannot be viewed from GitHub.*
+
 # Judging a (Children's) Book by Its Cover
 
 ## Abstract
