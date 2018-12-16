@@ -78,3 +78,12 @@ Until the presentation:
 2. `Exploratory Analysis.ipynb` uses the outputs of the last step to complete the dataset. It extracts the visual features of each image by using the methods in `feature_extraction.py`. As its name suggests, this notebook continues to do the exploratory analysis on the whole dataset, doing the descriptive statistics tasks, investigating distributions, etc. It ends with a plan for the upcoming steps of the project.
 
 ## Contributions of Group Members
+Doga Tekin:         (Illegal)-Scraping from Amazon, modelling and SHAP feautures, data story and visuals
+Pernille Samsøe:    Visual features, modelling (Random Forest), running tests, data story and visuals
+Emilie McFall:      Visual features, prelimenary data analysis, modelling (Random Forest), data story and visuals
+
+## Preperation for the presentation
+Before the presentation all group members will prepare the poster and rehearse the presentation before January 21st 2019. 
+
+
+
