@@ -1,3 +1,5 @@
+Link for data story: https://data-wizards.github.io/
+
 # Judging a (Children's) Book by Its Cover
 
 ## Abstract
